@@ -1,0 +1,79 @@
+eeschema (2010-03-14)-final  >> Creation date: lun 04 jun 2012 10:59:59 ART
+
+#Componentes ( orden = Referencia )
+| C1         100nF       
+| C2         47uF        
+| C3         100nF       
+| C4         47u         
+| C5         10uF        
+| C8         15pF        
+| C9         15pF        
+| D1         1N4148      
+| D2         1N4148      
+| IC1        PIC18F2550  
+| ISCP1      CONN_6      
+| L1         680uH       
+| LED1       LED         
+| LED2       LED         
+| Q1         BC548       
+| Q3         BC548       
+| Q4         BC548       
+| Q5         BC557       
+| R1         33          
+| R2         33          
+| R3         33          
+| R4         4k7         
+| R5         470         
+| R6         470         
+| R7         1k          
+| R8         4k7         
+| R9         2k7         
+| R10        100k        
+| R11        10k         
+| R12        100         
+| R13        10k         
+| R14        10k         
+| SW1        SW_PUSH     
+| USB1       USB_2       
+| X1         20MHz       
+#Fin Componentes
+
+#Componentes ( orden = Valor )
+| 100          R12       
+| 100k         R10       
+| 100nF        C1        
+| 100nF        C3        
+| 10k          R11       
+| 10k          R13       
+| 10k          R14       
+| 10uF         C5        
+| 15pF         C8        
+| 15pF         C9        
+| 1k           R7        
+| 1N4148       D1        
+| 1N4148       D2        
+| 20MHz        X1        
+| 2k7          R9        
+| 33           R1        
+| 33           R2        
+| 33           R3        
+| 470          R5        
+| 470          R6        
+| 47u          C4        
+| 47uF         C2        
+| 4k7          R4        
+| 4k7          R8        
+| 680uH        L1        
+| BC548        Q1        
+| BC548        Q3        
+| BC548        Q4        
+| BC557        Q5        
+| CONN_6       ISCP1     
+| LED          LED1      
+| LED          LED2      
+| PIC18F2550   IC1       
+| SW_PUSH      SW1       
+| USB_2        USB1      
+#Fin Componentes
+
+#Fin de Lista

@@ -1,0 +1,5 @@
+V4.0 06/05/14:
+*Arreglo en pines de ICSP
+*Arreglo de la señal ISCP_VPP
+*Arreglo Q5 estaba mal conectado.
+*Rediseño del PCB según los arreglos.
